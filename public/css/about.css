@@ -1,0 +1,13 @@
+.para1{
+    font-size: 15px;
+}
+.about {
+    font-weight: 320;
+    color: white;
+
+}
+.link a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
